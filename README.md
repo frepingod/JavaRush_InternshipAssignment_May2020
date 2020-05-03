@@ -1,0 +1,1 @@
+# JavaRush_InternshipAssignment_May2020
