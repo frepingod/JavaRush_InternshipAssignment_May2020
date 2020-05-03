@@ -5,4 +5,4 @@ Technologies:
     2. Tomcat 9 (для запуска своего приложения);
     3. Spring;
     4. Spring Data JPA;
-    5. MySQL (база данных (БД))
+    5. MySQL (база данных (БД)).
